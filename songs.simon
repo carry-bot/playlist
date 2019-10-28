@@ -1,0 +1,15 @@
+{
+  "songs" : [ {
+    "name" : "Wicked",
+    "link" : "https://www.youtube.com/watch?v=USs-w8frt4s"
+  }, {
+    "name" : "Lied 2",
+    "link" : "Link zu Lied 2"
+  } , {
+    "name" : "Lied 3",
+    "link" : "Link zu Lied 3"
+  } , {
+    "name" : "Lied 4",
+    "link" : "Link zu Lied 4"
+  } ]
+}
